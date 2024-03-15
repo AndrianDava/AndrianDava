@@ -1,4 +1,8 @@
-<h2 align="center">Hello👋, i'm Andrian Dava Maulana</h2>
+<h1 align="center">Hello👋, i'm Andrian Dava Maulana</h1>
+
+###
+
+<h2 align="center">Pemula!!</h2>
 
 ###
 
@@ -10,11 +14,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndrianDava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrianDava&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/AndrianDava/AndrianDava/output/snake.svg" alt="Snake animation" />
 
 ###
 
