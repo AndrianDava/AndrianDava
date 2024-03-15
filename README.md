@@ -17,6 +17,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrianDava&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31j2t6cdnig2tdtru6aeadsgugn4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
+<br/>
+
 ###
 
 <div align="left">
