@@ -34,5 +34,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AndrianDava/AndrianDava.git&type=Date)](https://star-history.com/#AndrianDava/AndrianDava.git&Date)
 
 ###
